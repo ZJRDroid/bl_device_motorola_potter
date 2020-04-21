@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_potter.mk
+    $(LOCAL_DIR)/bootleg_potter.mk
 
 COMMON_LUNCH_CHOICES := \
-    ancient_potter-user \
-    ancient_potter-userdebug \
-    ancient_potter-eng
+    bootleg_potter-user \
+    bootleg_potter-userdebug \
+    bootleg_potter-eng
